@@ -1,0 +1,14 @@
+C:\Users\Dell\source\Projectno1\Projectno1\bin\Debug\net9.0\Projectno1.exe
+C:\Users\Dell\source\Projectno1\Projectno1\bin\Debug\net9.0\Projectno1.deps.json
+C:\Users\Dell\source\Projectno1\Projectno1\bin\Debug\net9.0\Projectno1.runtimeconfig.json
+C:\Users\Dell\source\Projectno1\Projectno1\bin\Debug\net9.0\Projectno1.dll
+C:\Users\Dell\source\Projectno1\Projectno1\bin\Debug\net9.0\Projectno1.pdb
+C:\Users\Dell\source\Projectno1\Projectno1\obj\Debug\net9.0\Projectno1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\source\Projectno1\Projectno1\obj\Debug\net9.0\Projectno1.AssemblyInfoInputs.cache
+C:\Users\Dell\source\Projectno1\Projectno1\obj\Debug\net9.0\Projectno1.AssemblyInfo.cs
+C:\Users\Dell\source\Projectno1\Projectno1\obj\Debug\net9.0\Projectno1.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\Projectno1\Projectno1\obj\Debug\net9.0\Projectno1.dll
+C:\Users\Dell\source\Projectno1\Projectno1\obj\Debug\net9.0\refint\Projectno1.dll
+C:\Users\Dell\source\Projectno1\Projectno1\obj\Debug\net9.0\Projectno1.pdb
+C:\Users\Dell\source\Projectno1\Projectno1\obj\Debug\net9.0\Projectno1.genruntimeconfig.cache
+C:\Users\Dell\source\Projectno1\Projectno1\obj\Debug\net9.0\ref\Projectno1.dll
